@@ -1,0 +1,10 @@
+Kitap Adý:Tutunamayanlar-Yazar Adý:Oðuz Atay-Tür:Roman-ISBN:74162-Yayýn Yýlý:1972
+Kitap Adý:Sefiller-Yazar Adý:Victor hugo-Tür:Roman-ISBN:17292-Yayýn Yýlý:1862
+Kitap Adý:Çalýkuþu-Yazar Adý:Reþat Nuri Güntekin-Tür:Roman-ISBN:83533-Yayýn Yýlý:1942
+Kitap Adý:Ýnsancýklar-Yazar Adý:Dostoyevski-Tür:Roman-ISBN:60284-Yayýn Yýlý:1846
+Kitap Adý:Yokuþa doðru-Yazar Adý:Suut Kemal Yetkin-Tür:Deneme-ISBN:90872-Yayýn Yýlý:1963
+Kitap Adý:Dil ve Kültür-Yazar Adý:Muslih Ertunç-Tür:Makale-ISBN:28739-Yayýn Yýlý:1937
+Kitap Adý:Hasretinden prangalar eskittim-Yazar Adý:Ahmed Arif-Tür:Þiir Kitabý-ISBN:69425-Yayýn Yýlý:1990
+Kitap Adý:Þiir ve Dil-Yazar Adý:Fýrat Caner-Tür:Makale-ISBN:83546-Yayýn Yýlý:2001
+Kitap Adý:Eski Saat-Yazar Adý:Falih Rýfký Atay-Tür:Deneme-ISBN:83721-Yayýn Yýlý:1998
+Kitap Adý:Ýyi Vatandaþ Ýyi Ýnsan-Yazar Adý:Hasan-Âli Yücel-Tür:Makale-ISBN:18462-Yayýn Yýlý:1971
